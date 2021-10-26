@@ -47,6 +47,8 @@ The next assignment was to create a Skateboard, following an Onshape educational
 
 ### Images 
 
+Image of Deck
+
 <img src="images/Skateboard/Deck.png" height=300 alt="Image of Deck">
 
 ### Evidence
@@ -55,7 +57,7 @@ The next assignment was to create a Skateboard, following an Onshape educational
 
 ### Reflection
 
-This initial part was very simple and elegant. I was very impressed by the application Onshape managed to embed in the document, which had very well thought out and comprehensive instructions to create the part. In addition, there were tips along the way for useful keyboard shortcuts (ones that I already knew, but useful for beginners at least).
+This initial part was very simple and elegant. I was very impressed by the application Onshape managed to embed in the document, which had very well thought out and comprehensive instructions to create the part. In addition, there were tips along the way for basic keyboard shortcuts, such as **Shift+S** to create a sketch, **N** to view normal to sketch plane, **F** to fit the setch or model to the screen, **R** for a center point rectangle, and **C** for a center point circle.
 
 <br>
 <br>
@@ -68,6 +70,8 @@ The second part of the Skateboard was to design the trucks, which help attach th
 
 ### Images 
 
+Image of Trucks
+
 <img src="images/Skateboard/Trucks.png" height=300 alt="Image of Trucks">
 
 ### Evidence
@@ -76,7 +80,7 @@ The second part of the Skateboard was to design the trucks, which help attach th
 
 ### Reflection
 
-The trucks were more complicated than the deck, taking significantly more time to create. I did make a mistake during this process, initially designing the baseplate backwards and having to completely redo it in reverse. I did feel that the instructions for this part could have benefited from being split into several different parts, because such a large list of instructions is both daunting and difficult to navigate, two attributes which are not terribly beneficial for beginners.
+The trucks were more complicated than the deck, taking significantly more time to create. I did make a mistake during this process, initially designing the baseplate backwards and having to completely redo it in reverse. I also felt that the instructions for this part could have benefited from being split into several different parts because such a large list of instructions is both daunting and difficult to navigate, two attributes which are not terribly beneficial for beginners.
 
 <br>
 <br>
@@ -88,6 +92,8 @@ The trucks were more complicated than the deck, taking significantly more time t
 Designing the wheels and bearings was the next part of the skateboard. They were created in a new part studio since they couldn't really benefit from sharing geometry with the other parts. The wheel was created using a revolve, and then the bearing was extruded from the inside of the wheel.
 
 ### Images 
+
+Image of Wheel and Bearings
 
 <img src="images/Skateboard/Wheel_And_Bearing.png" height=300 alt="Image of Wheel and Bearings">
 
@@ -123,6 +129,8 @@ The final step of creating the Skateboard was to put it all together in a final 
 
 ### Images 
 
+Image of Final Skateboard Assembly
+
 <img src="images/Skateboard/Final_Assembly.png" height=300 alt="Image of Final Assembly">
 
 ### Evidence
@@ -131,7 +139,7 @@ The final step of creating the Skateboard was to put it all together in a final 
 
 ### Reflection
 
-The assembly was fairly simple, with relatively few parts. One useful thing which I found from the instructions was that the keyboard shortcut for hiding and showing mate connectors is **K**. As an often used action in my workflow, I found it much easier to use the keyboard shortcut. 
+The assembly was fairly simple, with relatively few parts. I ws introduced to the [replicate tool](https://cad.onshape.com/help/Content/replicate.htm), which enables the easy replication of features. It was most useful for getting rid of the monotony of placing nuts and bolts into the assembly. Another useful thing I found from the instructions was that the keyboard shortcut for hiding and showing mate connectors is **K**. As an often used action in my workflow, I found it much easier to use the keyboard shortcut. 
 
 <br>
 <br>
