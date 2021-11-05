@@ -8,6 +8,8 @@ This repo documents CAD work with Onshape in Engineering III.
 * [Skateboard Trucks](#skateboard-Trucks)
 * [Skateboard Wheels and Bearings](#skateboard-Wheels-and-Bearings)
 * [Skateboard Final Assembly](#skateboard-Final-Assembly)
+* [Configurations - Creation](#configurations---creation)
+* [Configurations - Assembly](#configurations---assembly)
 
 <br>
 <br>
@@ -18,7 +20,7 @@ This repo documents CAD work with Onshape in Engineering III.
 
 The first assignment was to replicate a swing arm part from a set of drawings. The assignment style was similar to a portion of the Onshape Associate Certification test.
 
-### Images 
+### Evidence 
 
 Configuration #1
 
@@ -27,8 +29,6 @@ Configuration #1
 Configuration #2
 
 <img src="https://user-images.githubusercontent.com/89222808/137238944-1d552151-7784-423e-88ad-8f4976325d97.png" height=300 alt="Configuration 2">
-
-### Evidence
 
 [Swing Arm Part](https://cvilleschools.onshape.com/documents/b27fb78945164dc920e277c3/w/1348a9d7a157243912fb7a22/e/1e6b48dc0cfd4b893ab35878?renderMode=0&uiState=6172ebfbdec4801e7ada9c52)
 
@@ -45,15 +45,13 @@ Creating this part from a drawing was more difficult than I expected. Combining 
 
 The next assignment was to create a Skateboard, following an Onshape educational guide. The first part of this assignement was the Skateboard Deck, a simple flat board with rounded ends and two sets of four holes for the trucks to attach to.
 
-### Images 
+### Evidence 
 
 Image of Deck
 
 <img src="images/Skateboard/Deck.png" height=300 alt="Image of Deck">
 
-### Evidence
-
-[Link to Deck](https://cvilleschools.onshape.com/documents/c71823187d9b6b4808156abe/w/1749d5b3bdc6e9464559b0b1/e/2e918a52faac32990a51779b?renderMode=0&uiState=6172ebe2551f2a05127830f1)
+[Skateboard Deck](https://cvilleschools.onshape.com/documents/c71823187d9b6b4808156abe/w/1749d5b3bdc6e9464559b0b1/e/2e918a52faac32990a51779b?renderMode=0&uiState=6172ebe2551f2a05127830f1)
 
 ### Reflection
 
@@ -68,15 +66,13 @@ This initial part was very simple and elegant. I was very impressed by the appli
 
 The second part of the Skateboard was to design the trucks, which help attach the wheels to the board itself. The trucks consisted of three main parts: the baseplate, the truck hanger, and the bushing. These parts were all designed in the same part studio as the deck to maximize efficiency by reusing geometry from the other parts.
 
-### Images 
+### Evidence 
 
 Image of Trucks
 
 <img src="images/Skateboard/Trucks.png" height=300 alt="Image of Trucks">
 
-### Evidence
-
-[Link to Trucks](https://cvilleschools.onshape.com/documents/c71823187d9b6b4808156abe/w/1749d5b3bdc6e9464559b0b1/e/2e918a52faac32990a51779b?renderMode=0&uiState=6172ebe2551f2a05127830f1)
+[Skateboard Trucks](https://cvilleschools.onshape.com/documents/c71823187d9b6b4808156abe/w/1749d5b3bdc6e9464559b0b1/e/2e918a52faac32990a51779b?renderMode=0&uiState=6172ebe2551f2a05127830f1)
 
 ### Reflection
 
@@ -91,15 +87,13 @@ The trucks were more complicated than the deck, taking significantly more time t
 
 Designing the wheels and bearings was the next part of the skateboard. They were created in a new part studio since they couldn't really benefit from sharing geometry with the other parts. The wheel was created using a revolve, and then the bearing was extruded from the inside of the wheel.
 
-### Images 
+### Evidence 
 
 Image of Wheel and Bearings
 
 <img src="images/Skateboard/Wheel_And_Bearing.png" height=300 alt="Image of Wheel and Bearings">
 
-### Evidence
-
-[Link to Wheel and Bearings](https://cvilleschools.onshape.com/documents/c71823187d9b6b4808156abe/w/1749d5b3bdc6e9464559b0b1/e/9e86e78560710dbd4f1f86e4?renderMode=0&uiState=6172ec43551f2a0512783422)
+[Skateboard Wheel and Bearings](https://cvilleschools.onshape.com/documents/c71823187d9b6b4808156abe/w/1749d5b3bdc6e9464559b0b1/e/9e86e78560710dbd4f1f86e4?renderMode=0&uiState=6172ec43551f2a0512783422)
 
 ### Reflection
 
@@ -127,19 +121,54 @@ The final step of creating the Skateboard was to put it all together in a final 
  Hex machine screw nut 5/16-24 | 4
  Hex machine screw nut 3/8-24 | 2
 
-### Images 
+### Evidence 
 
 Image of Final Skateboard Assembly
 
 <img src="images/Skateboard/Final_Assembly.png" height=300 alt="Image of Final Assembly">
 
-### Evidence
-
-[Link to Assembly](https://cvilleschools.onshape.com/documents/c71823187d9b6b4808156abe/w/1749d5b3bdc6e9464559b0b1/e/726b097b4f7073003f1133ae?renderMode=0&uiState=6172ec56551f2a05127834fd)
+[Skateboard Assembly](https://cvilleschools.onshape.com/documents/c71823187d9b6b4808156abe/w/1749d5b3bdc6e9464559b0b1/e/726b097b4f7073003f1133ae?renderMode=0&uiState=6172ec56551f2a05127834fd)
 
 ### Reflection
 
 The assembly was fairly simple, with relatively few parts. I ws introduced to the [replicate tool](https://cad.onshape.com/help/Content/replicate.htm), which enables the easy replication of features. It was most useful for getting rid of the monotony of placing nuts and bolts into the assembly. Another useful thing I found from the instructions was that the keyboard shortcut for hiding and showing mate connectors is **K**. As an often used action in my workflow, I found it much easier to use the keyboard shortcut. 
+
+<br>
+<br>
+
+## Configurations - Creation
+
+### Description
+
+The next CAD assignment was to create Legos using configurations. The first part was to create the parts and the configurations so that we could assemble them into a duck in the second part. The Lego bricks were created using variables so that they could be controlled by the configurations. 
+
+
+
+### Evidence
+
+
+### Reflection
+
+Creating a part with configurations was not particularly difficult, but I did find out about a handy trick that's useful when creating putting parts into assemblies. In order to make the Lego blocks fit together better, we made custom mate connectors for in the part studio using a pattern. TIP: when creating this pattern, make sure that ***Apply Per Instance*** is checked.
+
+<br>
+<br>
+
+## Configurations - Creation
+
+### Description
+
+The second and final part of the configuration assignment was to assemble some of the parts into a duck shape. Below is a list of the parts and configurations:
+
+
+
+### Evidence
+
+
+
+### Reflection
+
+
 
 <br>
 <br>
