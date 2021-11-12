@@ -146,6 +146,9 @@ The next CAD assignment was to create Legos using configurations. The first part
 
 ### Evidence
 
+<img src="images\Configurations\Screenshot 2021-11-12 152106.png" height=300 alt="Configuration Legos">
+
+[Configuration Legos](https://cvilleschools.onshape.com/documents/617450e68efca850f251e43b/w/ea7846e07304e0535c0e9f47/e/2a7c61595f3502acd6aaf45e)
 
 ### Reflection
 
